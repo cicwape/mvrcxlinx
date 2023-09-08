@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    border: 3px solid plum;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.obvod{
+    border: 5px solid plum;
+    border-radius: 5px;
+    text-align: center;
+ 
+}
+h2 { border: 5px solid lightgreen ;
+    border-radius: 5px;
+    text-align: center;
+
+}
